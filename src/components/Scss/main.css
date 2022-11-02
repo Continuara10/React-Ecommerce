@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  padding: 10px;
+}
+nav ul li {
+  display: inline-block;
+}
+nav a {
+  padding: 0px 50px;
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */
